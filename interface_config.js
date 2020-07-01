@@ -46,7 +46,7 @@ var interfaceConfig = {
 
     DEFAULT_BACKGROUND: '#474747',
     DEFAULT_LOCAL_DISPLAY_NAME: 'me',
-    DEFAULT_LOGO_URL: 'images/watermark.png',
+    DEFAULT_LOGO_URL: '',
     DEFAULT_REMOTE_DISPLAY_NAME: 'Fellow Tribester',
 
     DISABLE_DOMINANT_SPEAKER_INDICATOR: false,
